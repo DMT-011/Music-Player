@@ -1,0 +1,19 @@
+/* Pc */
+@media  (min-width: 64em) {
+    .player {
+        display: none;
+    }
+    
+    .caption {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+
+    .caption h2 {
+        font-size: 40px;
+        text-transform: uppercase;
+        
+    }
+}
